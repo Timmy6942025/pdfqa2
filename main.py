@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
 # --- CONFIGURATION ---
-# IMPORTANT: Make sure this matches the name of your uploaded PDF file!
+# IMPORTANT: Make sure this matches the name of your uploaded PDF file.
 PDF_FILE_PATH = "3.pdf"
 
 # Attempt to get the API key from Replit Secrets
